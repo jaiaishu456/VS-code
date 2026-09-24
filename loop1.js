@@ -74,7 +74,7 @@ for(let num=2; num<=100; num++){
     if(isPrime){
         console.log(num)
     }
-add()
+// add()
 
 }
 
